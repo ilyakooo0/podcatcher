@@ -1,0 +1,6 @@
+name = "podcatcher-auth"
+main = "src/index.ts"
+compatibility_date = "2022-11-30"
+routes = [
+	{ pattern = "podcatcher-auth.iko.soy", custom_domain = true, zone_name = "iko.soy" }
+]
